@@ -1,1 +1,1 @@
-select * from invalidTablenanme;
+selec * from students;
