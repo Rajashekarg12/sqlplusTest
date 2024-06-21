@@ -1,1 +1,1 @@
-selec * from students;
+select * from student;
