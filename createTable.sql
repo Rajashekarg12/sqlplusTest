@@ -15,6 +15,6 @@ INSERT INTO students (id, firstname, lastname, gender) VALUES (3, 'Vikram', 'Sin
 INSERT INTO students (id, firstname, lastname, gender) VALUES (4, 'Karan', 'Verma', 'M');
 INSERT INTO students (id, firstname, lastname, gender) VALUES (5, 'Priya', 'Rao', 'F');
 INSERT INTO students (id, firstname, lastname, gender) VALUES (6, 'venkat', 'reddy', 'F');
-INSERT INTO students (id, firstname, lastname, gender) VALUES (7, 'Neha', 'sharma', 'F');
+--INSERT INTO students (id, firstname, lastname, gender) VALUES (7, 'Neha', 'sharma', 'F');
 
 @selectstmt.sql
