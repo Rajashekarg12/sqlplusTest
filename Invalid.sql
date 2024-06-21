@@ -1,1 +1,1 @@
-select * from nonexsittable;
+select * from invalidTablenanme;
